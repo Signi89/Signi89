@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Signi89
-- 👀 I’m interested in Front End Web Development, open source project.
+- 👀 I’m interested in Front End Web Development and Open Source Project.
 - 🌱 I’m currently learning Front End web Development
-- 💞️ I’m looking to collaborate on open source project on Front End web development
+- 💞️ I’m looking to collaborate on Open Source Project on Front End Web Development
 - 📫 How to reach me email; significanceohia@gmail.com , whatsapp +2347042670529
 
 <!---
