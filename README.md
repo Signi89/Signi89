@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ohia Significance
--I Craft beautiful and responsive user interfaces using HTML, CSS, and JavaScript.
--Harness the power of TypeScript to write robust and maintainable code.
--Bring life to web applications with the magic of React.
+-✔I Craft beautiful and responsive user interfaces using HTML, CSS, and JavaScript✔✔✔
+-❤❤Harness the power of TypeScript to write robust and maintainable code✔✔✔
+✔Bring life to web applications with the magic of React✔✔✔.
 - 📫 How to reach me email; significanceohia@gmail.com , whatsapp +2347042670529
 
 <!---
